@@ -1,0 +1,8 @@
+/home/b/IdeaProjects/projectAmazon/src/test/java/com/amazon/runners/CukesRunner.java
+/home/b/IdeaProjects/projectAmazon/src/test/java/com/amazon/pages/basePage.java
+/home/b/IdeaProjects/projectAmazon/src/test/java/com/amazon/step_definitions/StepDefs.java
+/home/b/IdeaProjects/projectAmazon/src/test/java/com/amazon/utilities/BrowserUtils.java
+/home/b/IdeaProjects/projectAmazon/src/test/java/com/amazon/utilities/ConfigurationReader.java
+/home/b/IdeaProjects/projectAmazon/src/test/java/com/amazon/utilities/Driver.java
+/home/b/IdeaProjects/projectAmazon/src/test/java/com/amazon/step_definitions/Hooks.java
+/home/b/IdeaProjects/projectAmazon/src/test/java/com/amazon/runners/FailedTestRunner.java
